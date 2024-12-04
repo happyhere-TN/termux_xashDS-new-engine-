@@ -42,7 +42,7 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
     
  **-** `termux-setup-storage`
      
-**-** `pkg install proot-distro qemu-user-i386 && export DISTRO_ARCH=i686 && proot-distro install debian && cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/Repository2/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
+**-** `pkg install proot-distro qemu-user-i386 -y && export DISTRO_ARCH=i686 && proot-distro install debian && cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/Repository2/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
 
 **4 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
