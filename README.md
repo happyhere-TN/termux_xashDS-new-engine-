@@ -27,8 +27,11 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous)
 
 **// instalation:**
+
 **1 -** download latest termux version from [F-droid](https://f-droid.org/fr/packages/com.termux/)
+
 **2 -** download  xash dedicated server full update from [here](https://www.mediafire.com/file/vx94cu1zuxt7e7k/termux-xashds.zip/file) and extract it on download folder
+
 **3 -** open termux and set cods one by one:
      
 **-** `apt update -y && apt upgrade`
