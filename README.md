@@ -53,6 +53,7 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
 > if u add any plugins with recources (models , sounds ... ) dont forget to copy sources's to xash3D data files 
 
 **to** open server just tipe: `start-server`
+
 **to** edite server.cfg file tipe: `edite-server`
 After runing ur server u can find it on LAN servers list
 
