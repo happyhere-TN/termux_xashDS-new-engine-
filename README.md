@@ -10,9 +10,13 @@ _this termux_xashDS build for linux i386 with yapb bots_
 ### **Tested on:**
 
 > galaxy A50  Exynos 9610
- >  8 cors 
+
+> 8 cors 
+
 > 4gb ram
+
 > android 11
+
 > working fine for me !
 
 **// xashDS have:**
