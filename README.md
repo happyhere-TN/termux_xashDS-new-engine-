@@ -8,13 +8,11 @@ _this termux_xashDS build for linux i386 with yapb bots_
 
 ### **Tested on:**
 
-> galaxy A50  Exynos 9610
+> galaxy grand prime
 
-> 8 cors 
+> 1.5 gb ram
 
-> 4gb ram
-
-> android 11
+> android 7
 
 > working fine for me !
 
