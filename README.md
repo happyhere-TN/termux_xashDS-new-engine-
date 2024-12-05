@@ -8,7 +8,7 @@ _this termux_xashDS build for linux i386 with yapb bots_
 
 ### **Tested on:**
 
-> galaxy grand prime
+> galaxy grand prime pro
 
 > 1.5 gb ram
 
