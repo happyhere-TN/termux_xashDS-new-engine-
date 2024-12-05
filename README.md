@@ -1,9 +1,7 @@
-# termux_xashDS (new-engine)
+# termux_xashDS (new and old engine)
 
 
 By [termux-xashDS] you can run metamod with the latest HLDS updates on Android Follow the instalation steps ...
-
-- if looking for xash3d (old engine ) dedicated server using termux chek [MODDB](https://www.moddb.com/games/xash3d-android/addons/termux-xash3dpowred-amxmod-v182)
 
 _this termux_xashDS build for linux i386 with yapb bots_ 
      ![Image](https://github.com/user-attachments/assets/b01a2624-5be3-42e7-a2c7-e5ad6e23badf)
@@ -39,11 +37,11 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
 
 **3 -** open termux and set cods one by one:
      
-**-** `apt update -y && apt upgrade`
+**-** `apt update -y && apt upgrade -y`
     
  **-** `termux-setup-storage`
      
-**-** `pkg install proot-distro qemu-user-i386 -y && export DISTRO_ARCH=i686 && proot-distro install debian && cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/Repository2/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
+**-** `cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/Repository2/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
 
 **4 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
@@ -51,7 +49,7 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
 
 **⚠️ important**
 
-> if u add any plugins with recources (models , sounds ... ) dont forget to copy sources's to xash3D data files 
+> if u add any plugins with recources (models , sounds ... ) on new engine dont forget to copy sources's to xash3D data files 
 
 **to** open server just tipe: `start-server`
 
