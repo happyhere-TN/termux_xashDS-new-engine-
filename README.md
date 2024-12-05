@@ -28,9 +28,9 @@ _this termux_xashDS build for linux i386 with yapb bots_
 
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
-_the update i use it:
+**the update i use it:**
 
-**new engine**_[xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous)
+**new engine** [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous)
 
 **old engine** (not find in githup)
 
