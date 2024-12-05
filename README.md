@@ -41,7 +41,7 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
     
  **-** `termux-setup-storage`
      
-**-** `cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/Repository2/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
+**-** `cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
 
 **4 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
