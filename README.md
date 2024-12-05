@@ -56,6 +56,7 @@ _the update i use it_  [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d
 **to** open server just tipe: `start-server`
 
 **to** edite server.cfg file tipe: `edite-server`
+
 After runing ur server u can find it on LAN servers list
 
 have fun !
