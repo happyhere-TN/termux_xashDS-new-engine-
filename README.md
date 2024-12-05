@@ -3,6 +3,7 @@
 
 By [termux-xashDS] you can run metamod with the latest HLDS updates on Android Follow the instalation steps ...
 
+- if looking for xash3d (old engine ) dedicated server using termux chek [MODDB](https://www.moddb.com/games/xash3d-android/addons/termux-xash3dpowred-amxmod-v182)
 
 _this termux_xashDS build for linux i386 with yapb bots_ 
      ![Image](https://github.com/user-attachments/assets/b01a2624-5be3-42e7-a2c7-e5ad6e23badf)
