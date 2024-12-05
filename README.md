@@ -36,7 +36,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **1 -** download latest termux version from [F-droid](https://f-droid.org/fr/packages/com.termux/)
 
-**2 -** download  xash dedicated server full update from [here](https://www.mediafire.com/file/dty040u3fvswrgy/termux-xashds.zip/file) and extract it on download folder
+**2 -** download  xash dedicated server full update from [here](https://www.mediafire.com/file/gaonjgk8xezefk2/termux-xashds.zip/file) and extract it on download folder
 
 **3 -** open termux and set cods one by one:
      
