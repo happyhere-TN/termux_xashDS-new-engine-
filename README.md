@@ -21,7 +21,7 @@ _this termux_xashDS build for linux i386 with yapb bots_
 - Metamod 1.3.0.149
 - Amxmod 1.9.0 base & cstrike
 - Rehlds 3.13.0.788
-- Regamedll 5.26.0.688
+- Regamedll_CS 5.26.0.688
 - yapb 4.2.598
 
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
