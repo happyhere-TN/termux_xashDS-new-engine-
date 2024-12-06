@@ -1,9 +1,8 @@
 # termux_xashDS (new and old engine)
 
 
-By [termux-xashDS] you can run metamod with the latest HLDS updates with new engine and old engine DS libs on Android Follow the instalation steps ...
-
-_this termux_xashDS build for linux i386 with yapb bots_ 
+By [termux-xashDS] you can run metamod with latest HLDS updates with new engine and old engine DS libs on Android using termux 
+-Follow the instalation steps ...
 
 -- **_Interface_**
 ![Image](https://github.com/user-attachments/assets/4431e5c3-1713-4d6a-93e1-986041694e04)
