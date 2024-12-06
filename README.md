@@ -69,7 +69,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **-to** launch server manual (./xash -game..):
 
-first tipe: `start-server` and xashds path files in: `cd /usr/games/xash`
+first tipe: `start-server` and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 
 After runing ur server u can find it on LAN servers list
 
