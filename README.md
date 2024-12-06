@@ -6,7 +6,7 @@ By [termux-xashDS] you can run metamod with the latest HLDS updates with new eng
 _this termux_xashDS build for linux i386 with yapb bots_ 
      ![Image](https://github.com/user-attachments/assets/b01a2624-5be3-42e7-a2c7-e5ad6e23badf)
 
-### **Tested on:**
+# **Tested on:**
 
 > galaxy grand prime pro
 
@@ -16,7 +16,7 @@ _this termux_xashDS build for linux i386 with yapb bots_
 
 > working fine for me !
 
-#**// xashDS have:**
+# **// xashDS have:**
 
 - Metamod 1.3.0.149
 - Amxmod 1.9.0 base & cstrike
@@ -26,13 +26,13 @@ _this termux_xashDS build for linux i386 with yapb bots_
 
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
-#**the update i use it:**
+# **the update i use it:**
 
 **new engine** [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous)
 
 **old engine** (not find in githup)
 
-#**// instalation:**
+# **// instalation:**
 
 **1 -** download latest termux version from [F-droid](https://f-droid.org/fr/packages/com.termux/)
 
@@ -50,7 +50,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **>>** u can custom xashds files (add plugins or other things) the game in `storage/0/Download/termux-xash3D/gamelib/xash` 
 
->#**⚠️ important**
+># **⚠️ important**
 
 > if u add any plugins with recources (models , sounds ... ) on new engine dont forget to copy sources's to xash3D data files 
 
