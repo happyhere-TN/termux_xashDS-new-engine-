@@ -23,7 +23,7 @@ By [termux-xashDS] you can run metamod with latest HLDS updates with new engine 
 
 > working fine for me !
 
-# **// xashDS have:**
+# **// Termux_xashDS have:**
 
 - Metamod 1.3.0.149
 - Amxmod 1.9.0 base & cstrike
