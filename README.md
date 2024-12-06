@@ -63,12 +63,12 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 # // how to runing server
 
-**to** open server just tipe: `start-server`
+**-to** open server just tipe: `start-server`
 
-**to** edite server.cfg file tipe: `edite-server`
+**-to** edite server.cfg file tipe: `edite-server`
 
-**to** launche server manual (./xash -game..):
-open termux login to ubuntu tipe: `cd && ./start-ubuntu.sh` and xashds path files in: `cd /usr/games/xash`
+**-to** launch server manual (./xash -game..):
+login to ubuntu tipe: `cd && ./start-ubuntu.sh` and xashds path files in: `cd /usr/games/xash`
 
 After runing ur server u can find it on LAN servers list
 
