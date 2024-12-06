@@ -61,6 +61,8 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 > if u add any plugins with recources (models , sounds ... ) and runing server with new DS engine dont forget to copy sources's to xash3D data files 
 
+# //how to runing server
+
 **to** open server just tipe: `start-server`
 
 **to** edite server.cfg file tipe: `edite-server`
