@@ -68,7 +68,8 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 **-to** edite server.cfg file tipe: `edite-server`
 
 **-to** launch server manual (./xash -game..):
-login to ubuntu tipe: `cd && ./start-ubuntu.sh` and xashds path files in: `cd /usr/games/xash`
+
+first login to ubuntu: `cd && ./start-ubuntu.sh` and xashds path files in: `cd /usr/games/xash`
 
 After runing ur server u can find it on LAN servers list
 
