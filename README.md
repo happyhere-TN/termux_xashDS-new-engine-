@@ -4,7 +4,15 @@
 By [termux-xashDS] you can run metamod with the latest HLDS updates with new engine and old engine DS libs on Android Follow the instalation steps ...
 
 _this termux_xashDS build for linux i386 with yapb bots_ 
-     ![Image](https://github.com/user-attachments/assets/b01a2624-5be3-42e7-a2c7-e5ad6e23badf)
+
+-- **_Interface_**
+![Image](https://github.com/user-attachments/assets/4431e5c3-1713-4d6a-93e1-986041694e04)
+   
+--**_What engine do you want to open ds with it ?_**
+![Image](https://github.com/user-attachments/assets/aec8c631-6454-4bb2-9dae-a9779f94775d)
+
+--**_server opening_**
+![Image](https://github.com/user-attachments/assets/83c2b0f8-322f-431b-bb7f-54203ca23c9a)
 
 # **Tested on:**
 
