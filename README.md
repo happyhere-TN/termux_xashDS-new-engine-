@@ -53,7 +53,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
     
  **-** `termux-setup-storage`
      
-**-** `cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/xashsetup.sh && sh xashsetup.sh`
+**-** `cd && pkg install wget -y && wget https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/storage/emulated/0/data/data/com.termux/files/home/xashsetup.sh && sh xashsetup.sh`
 
 **4 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
