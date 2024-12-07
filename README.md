@@ -46,7 +46,8 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 **1 -** download latest termux version from [F-droid](https://f-droid.org/fr/packages/com.termux/)
 
 **2 -** download  xash dedicated server full update from [Releases](https://github.com/happyhere-TN/termux_xashDS-new-engine-/releases) and extract it on download folder
->**note**: make sure after extract the folders path like this <download/termux-xash3D/gamelib..>
+>**note**: make sure after extract the folders path like this:
+>download/termux-xash3D/gamelib
 
 **3 -** open termux and set cods one by one:
      
