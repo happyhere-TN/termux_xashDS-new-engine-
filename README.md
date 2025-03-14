@@ -57,11 +57,11 @@ _thanks for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 > If you're add any plugins with resources (models, sounds and etc..) and running server with new XashDS engine dont forget to copy sources's to Xash3D-FWGS data files 
 
-# // how to run an server
+# // How to run an server
 
-**-To open server just tipe: `start-server`**
+**-To open server just type: `start-server`**
 
-**-To edite server.cfg file tipe: `edite-server`**
+**-To edit server.cfg file tipe: `edite-server`**
 
 **-To launch server manual (./xash -game..) first tip: `start-server` and the xashds path files in: `cd /usr/games/xash` give Permission to XashDS: `chmod +x *` and launching ..**
 
