@@ -77,8 +77,9 @@ tipe: ./xash -game <gamemod>...
 # // offline or online public server
 
 **-online**  
-if u have router just open port set  udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
+if u have wifi  join to router configurate open port set  udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
 after that u find ur server in public servers.
+
 if u have mobile data open mobile data and download any forwording port apk and open it set udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
 after that u find ur server in public servers.
 
