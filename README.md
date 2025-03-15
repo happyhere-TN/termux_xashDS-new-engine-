@@ -71,8 +71,18 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **-to** edite server.cfg file tipe: `edite-server`
 
-**-to** launch server manual (./xash -game..) first tipe: `start-server` and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
+**-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first tipe: `start-server` and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
+tipe: ./xash -game <gamemod>...
 
-After runing ur server u can find it on LAN servers list
+# // offline or online public server
+
+**-online**  
+if u have router just open port set  udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
+after that u find ur server in public servers.
+if u have mobile data open mobile data and download any forwording port apk and open it set udp/27015/ip/ and save and open ur server plz dont tipe public 1 to server not crash 
+after that u find ur server in public servers.
+
+**-offline**  
+just open mobile data (without internet is working fine) and open ur server  After runing ur server u can find it on LAN servers list
 
 have fun !
