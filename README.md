@@ -9,8 +9,8 @@ By [termux-xashDS] you can run metamod with latest HLDS updates with new engine 
 -- **_Interface_**
 ![Image](https://github.com/user-attachments/assets/4431e5c3-1713-4d6a-93e1-986041694e04)
    
---**_What engine do you want to open ds with it ?_**
-![Image](https://github.com/user-attachments/assets/aec8c631-6454-4bb2-9dae-a9779f94775d)
+--**choose server_**
+![Image](https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/chooseserver.jpg?raw=true)
 
 
 ![Image](https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/hlbots.jpg?raw=true)
