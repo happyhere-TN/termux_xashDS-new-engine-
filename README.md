@@ -32,7 +32,7 @@ By [termux-xashDS] you can run metamod with latest HLDS updates with new engine 
 - Rehlds 3.13.0.788
 - Regamedll_CS 5.26.0.688
 - yapb 4.2.598
-- jk_botty for hldm
+- jk_botti for hldm
 
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
