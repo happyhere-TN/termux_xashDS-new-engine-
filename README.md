@@ -36,7 +36,7 @@ By [termux-xashDS] you can run metamod with latest HLDS updates with new engine 
 
 _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
-# **the update i use it:**
+# **Dedicated file library use it:**
 
 **new engine** [xashds-linux-i386.tar.gz](https://github.com/FWGS/xash3d-fwgs/releases/tag/continuous)
 
