@@ -1,7 +1,7 @@
 # termux_xashDS (new and old engine)
 
 
-By [termux-xashDS] you can run metamod with latest HLDS updates with new engine and old engine DS libs on Android using termux.
+By [termux-xashDS] you can run dedicated server with latest HLDS updates with new engine and old engine DS libs on Android using termux.
 
 -If you don't know what I'm talking about chek [xash3D-Fwgs](https://github.com/FWGS/xash3d-fwgs)
 
