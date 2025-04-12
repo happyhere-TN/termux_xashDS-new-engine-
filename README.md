@@ -91,7 +91,7 @@ just open mobile data (without internet is working fine) and open ur server  Aft
 
 -**buss error:**
 
-this happend to me when i set public 1 when i start cs or hl server batter to set public 0 .
+this happend to me when i set public 1 when i start cs or hl server batter to set public 0 and make sure That all configerate files Does not contain public 1 or if u find it change it to 0.
 
 -**server working but cant join**:
 
