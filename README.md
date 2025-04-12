@@ -87,4 +87,16 @@ after that u find ur server in public servers.
 **-offline**  
 just open mobile data (without internet is working fine) and open ur server  After runing ur server u can find it on LAN servers list
 
+# // Known errors
+**bus error:**
+this happend to me when i set public 1 when i start cs or hl server batter to set public 0 .
+**server working but cant join**:
+this probleme i dont know cuses but try connect to map egain after server open on termux just tipe: map crossfire and u can join to server.
+**cstrike lag with bots**
+The most common thing that causes lag is yapb bots To avoid lag just lower number of yapb bots on yapb.cfg from termux_xash3d files (xash/cstrike/addons/yapb/conf/yapb.cfg) 
+After opening the file you will find:
+yb_quota 6 or 7 ot 4... 
+u need to change it to lower than u have.
+
+
 have fun !
