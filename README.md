@@ -89,7 +89,7 @@ just open mobile data (without internet is working fine) and open ur server  Aft
 
 # // Known errors
 
--**bus error:**
+-**buss error:**
 
 this happend to me when i set public 1 when i start cs or hl server batter to set public 0 .
 
