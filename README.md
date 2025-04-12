@@ -104,5 +104,5 @@ After opening the file you will find:
 yb_quota 6 or 7 ot 4... 
 u need to change it to lower than u have.
 
-
+if u got any other error pls sent it on
 have fun !
