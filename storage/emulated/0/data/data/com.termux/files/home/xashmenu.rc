@@ -6,7 +6,8 @@ TITLE="termux-xash3D menu"
 MENU="Choose one of the following options:"
 
 OPTIONS=(1 "-start-server-"
-         2 "-edite-cs-server")
+         2 "-edite-cs-server"
+         3 "-exit-termux-")
 
 CHOICE=$(dialog --clear \
                 --backtitle "$BACKTITLE" \
@@ -22,7 +23,10 @@ case $CHOICE in
             cd && cd ubuntu-fs/usr/games && rm -rf xash && cd && cd /storage/emulated/0/download/termux-xash3d/gamelib && clear && echo "[[ COPYING XASHFILES...]]" && cp -rf xash /data/data/com.termux/files/home/ubuntu-fs/usr/games && cd && ./start-ubuntu.sh
             ;;
         2)
-           cd && cd /storage/emulated/0/download/termux-xash3d/gamelib/xash/cstrike && nano server.cfg
+           cd && cd /storage/emulated/0/download/termux-xash3d/gamelib/xash/cstrike && nano server.cfg && cd && bash xashmenu.rc
+            ;;
+        3) 
+           exit
             ;;
 esac
 
