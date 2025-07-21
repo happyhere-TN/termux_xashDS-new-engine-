@@ -50,19 +50,19 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 >**note**: make sure after extract the zip Must be path like this:
 >download/termux-xash3D/gamelib
 
-**open termux and set cods one by one:**
+**3 -** open termux and set cods one by one:
   
-  'apt update -y && apt upgrade -y'
+'apt update -y && apt upgrade -y'
 
-**allow storage**
-   
-   'termux-setup-storage'
+**4 -** allow storage
 
-**wget this link**   
+'termux-setup-storage'
+
+**5 -** wget this link
    
    'cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/storage/emulated/0/data/data/com.termux/files/home/xashsetup.sh && sh xashsetup.sh`
 
-**4 -** the Installation completed now exit from termux tipe `exit` and open it egain 
+**6 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
 **>>** u can custom xashds files (add plugins or other things) the game in `storage/0/Download/termux-xash3D/gamelib/xash` 
 
