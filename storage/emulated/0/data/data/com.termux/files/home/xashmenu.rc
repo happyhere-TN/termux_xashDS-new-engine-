@@ -6,8 +6,7 @@ TITLE="termux-xash3D menu"
 MENU="Choose one of the following options:"
 
 OPTIONS=(1 "-start-server-"
-         2 "-edite-cs-server"
-         3 "-exit-termux-")
+         2 "-edite-cs-server")
 
 CHOICE=$(dialog --clear \
                 --backtitle "$BACKTITLE" \
@@ -25,8 +24,6 @@ case $CHOICE in
         2)
            cd && cd /storage/emulated/0/download/termux-xash3d/gamelib/xash/cstrike && nano server.cfg && cd && bash xashmenu.rc
             ;;
-        3) 
-           exit
-            ;;
+
 esac
 
