@@ -22,14 +22,5 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 		/data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
 	}
 fi
-clear && echo -e "
-\e[1;31m
-     DEDICATED SERVER FOR XASH3D NEW ENGINE" && alias start-server="cd && cd .. && cd usr/var/lib/proot-distro/installed-rootfs/debian/usr/games && rm -rf xash && cd && cd /storage/emulated/0/download/termux-xash3d/gamelib && cp -rf xash /data/data/com.termux/files/usr/var/lib/proot-distro/installed-rootfs/debian/usr/games && cd && proot-distro login debian"
-alias edite-server="cd && cd /storage/emulated/0/download/termux-xash3d/gamelib/xash/cstrike && nano server.cfg" && echo -e "
-
-\e[1;33m
- -edite server.cfg tipe: \e[1;35medite-server   
- \e[1;33m
- -start server tipe: \e[1;35mstart-server
-
-" 
+clear
+chmod +x * && bash xashmenu.rc
