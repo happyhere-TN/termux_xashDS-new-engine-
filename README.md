@@ -7,7 +7,7 @@ By [termux-xashDS] you can run dedicated server with latest HLDS updates with ne
 
 
 -- **_Interface_**
-![Image](https://github.com/user-attachments/assets/4431e5c3-1713-4d6a-93e1-986041694e04)
+![Image](https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/head.jpg)
    
 --**choose server_**
 ![Image](https://github.com/happyhere-TN/termux_xashDS-new-engine-/blob/main/chooseserver.jpg?raw=true)
