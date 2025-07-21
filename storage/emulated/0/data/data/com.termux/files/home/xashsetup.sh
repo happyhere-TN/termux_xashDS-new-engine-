@@ -2,7 +2,7 @@
 
 #fast shell's
 alias copytr="cd && cd /storage/emulated/0/download/termux-xash3D"
-alias installubuntu="apt install dialog && clear && cd && wget https://raw.githubusercontent.com/AllPlatform/Termux-UbuntuX86_64/master/Ubuntu-i386.sh && chmod +x * && ./Ubuntu-i386.sh && clear"
+alias installubuntu="cd && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/storage/emulated/0/data/data/com.termux/files/home/xashmenu.rc && apt install dialog && clear && cd && wget https://raw.githubusercontent.com/AllPlatform/Termux-UbuntuX86_64/master/Ubuntu-i386.sh && chmod +x * && ./Ubuntu-i386.sh && clear"
 alias db=" cd && copytr && cd db && cp -rf bash.bashrc /data/data/com.termux/files/home/ubuntu-fs/etc"
 alias tr="cd && copytr && cd tr && cp -rf bash.bashrc /data/data/com.termux/files/usr/etc"
 alias mkxashdir="cd && cd ubuntu-fs/usr/games && mkdir xash"
