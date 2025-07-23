@@ -52,15 +52,15 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 **3 -** open termux and set cods one by one:
   
-`apt update -y && apt upgrade -y`
+    apt update -y && apt upgrade -y
 
 **4 -** allow storage
 
-`termux-setup-storage`
+    termux-setup-storage
 
 **5 -** wget this link
    
-`cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/storage/emulated/0/data/data/com.termux/files/home/xashsetup.sh && sh xashsetup.sh`
+    cd && pkg install wget -y && wget https://raw.githubusercontent.com/happyhere-TN/termux_xashDS-new-engine-/refs/heads/main/storage/emulated/0/data/data/com.termux/files/home/xashsetup.sh && sh xashsetup.sh
 
 **6 -** the Installation completed now exit from termux tipe `exit` and open it egain 
 
