@@ -74,7 +74,7 @@ _thx for_ [a1batross](https://github.com/a1batross) _to i386 relesess_
 
 just select what u wont from dialog.box
 
-**-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first tipe: `start-server` and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
+**-to** launch any gamemod server hl/cs/bhl/tfc.. u can do that manual first select start-server and the xashds path files in: `cd /usr/games/xash` give Permission to xashDS: `chmod +x *` and launching ..
 tipe: './xash -game gamemod..'
 
 # // offline or online public server
